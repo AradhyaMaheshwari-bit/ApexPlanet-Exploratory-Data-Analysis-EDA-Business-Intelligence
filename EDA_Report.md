@@ -1,12 +1,10 @@
 # Exploratory Data Analysis (EDA) Report
 
-## ApexPlanet Internship – Task 2
-
 ### Submitted By
 
 **Name:** Aradhya Maheshwari
 
-**Internship Domain:** Data Analytics
+**Domain:** Data Analytics
 
 ---
 
