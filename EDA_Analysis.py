@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load Cleaned Dataset
-df = pd.read_excel("Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx")
+df = pd.read_excel("Cleaned_Dataset.xlsx")
 
 print("="*60)
 print("EXPLORATORY DATA ANALYSIS")
