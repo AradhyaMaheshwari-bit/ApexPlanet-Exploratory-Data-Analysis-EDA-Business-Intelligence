@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Load Cleaned Dataset
 df = pd.read_excel("Cleaned_Dataset.xlsx")
@@ -67,7 +68,6 @@ print(df[["Age","Quantity","Unit_Price","Total_Sales"]].corr())
 
 print("\nEDA Completed Successfully!")
 
-import matplotlib.pyplot as plt
 
 # Revenue by Category
 plt.figure(figsize=(8,5))
